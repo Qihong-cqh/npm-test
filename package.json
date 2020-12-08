@@ -1,6 +1,6 @@
 {
-  "name": "chenqihong",
-  "version": "1.1.0",
+  "name": "@qtrade/chenqihong",
+  "version": "0.0.2",
   "description": "demo",
   "main": "index.js",
   "scripts": {
